@@ -1,16 +1,11 @@
-### Hi there 👋
+### Hi there, I'm GlassLotus111! 👋
 
-<!--
-**GlassLotus111/GlassLotus111** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on website designs with Bootstrap, HTML5, and CSS3.
+- 🌱 I’m currently learning Python GUI.
+- 👯 I’m looking to collaborate on Upwork, Fivver, Discord, and YouTube.
+- 🤔 I’m looking for help with C# or C++ documentation. 
+- 💬 Ask me about python or any related stuff. 
+- 📫 How to reach me: whispermeditation05@gmail.com 
+- 😄 Pronouns: she, her, hers
+- ⚡ Fun fact: I like to code.
+- 
