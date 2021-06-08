@@ -7,5 +7,4 @@
 - 💬 Ask me about python or any related stuff. 
 - 📫 How to reach me: whispermeditation05@gmail.com 
 - 😄 Pronouns: she, her, hers
-- ⚡ Fun fact: I like to code.
-- 
+- ⚡ Fun fact: I like nearly every genre of music there is!
