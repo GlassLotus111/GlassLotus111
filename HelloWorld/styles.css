@@ -1,0 +1,69 @@
+body {
+    background: #515184;
+    color: #cdecf9;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 16px;
+}
+
+.larger-text {
+    font-size: 32px;
+    background: #898989;
+    color: #000;
+}
+
+.red {
+    color: #e65151;
+}
+  
+.green {
+    color: #46b546;
+}
+  
+.blue {
+    color: #538eec;
+}
+
+/* a default font-size for all paragraphs */
+p {
+    font-size: 18px;
+}
+  
+.small-text {
+    font-size: 10px;
+}
+  
+.large-text {
+    font-size: 30px;
+}
+
+
+.two {
+    letter-spacing: 2px;
+}
+
+.four {
+    letter-spacing: 4px;
+}
+
+.thirty {
+    line-height: 30px;
+}
+
+.sixty {
+    line-height: 60px;
+}
+
+.derp {
+    font-family: Helvetica, Arial, sans-serif;
+  }
+
+
+.jihad {
+    font-size: 10px;
+    text-transform: lowercase;
+    text-decoration: underline;
+    font-style: bold;
+    font-family: 'Times New Roman', Times, serif;
+    line-height: 20px;
+    letter-spacing: 4px;
+  }
